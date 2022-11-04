@@ -1,0 +1,18 @@
+Package: test_compendium
+Title: Setup a Basic Research Compundium
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kevine", "Franciscaine", , "kfransiscaine@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Setup a Basic Research Compundium
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
+Imports:
+  dplyr,
+  readr,
+  sf,
+  sars
+  
